@@ -65,14 +65,14 @@ ul{
 
 .input-btn {
 	display: inline-block;
-	padding: 12px 30px;
-	color: #FFF;
-	background-color: #EF233C;
-	border: none;
-	text-transform: uppercase;
-	opacity: 1;
-	font-size: 12.5px;
-	font-weight: 400;
+    padding: 12px 30px;
+    color: #000;
+    background-color: #fbfbf8;
+    border: none;
+    text-transform: uppercase;
+    opacity: 1;
+    font-size: 12.5px;
+    font-weight: bold;
 }
 
 .input-btn:hover {
