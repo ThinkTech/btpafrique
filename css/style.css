@@ -416,9 +416,8 @@ ul{
 .article .article-title {
 	text-transform: uppercase;
     margin-top: 0px;
-    font-size: 13px;
+    font-size: 14px;
     margin-bottom: 0px;
-    font-family: Tahoma;
 }
 
 .article .article-title > a {
