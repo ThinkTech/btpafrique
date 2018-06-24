@@ -410,6 +410,8 @@ ul{
 
 .tab-pane .row {
 	background: linear-gradient(to right,#ffffff 0,#ffffff 40%,#ffffff 100%);
+	padding-top: 20px;
+    padding-bottom: 0px;
 }
 
 .article .article-title {
