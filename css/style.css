@@ -815,6 +815,23 @@ ul{
 	background-color:#EF233C;
 }
 
+#back-to-top.active {
+	opacity:1;
+	visibility:visible;
+	-webkit-transform:translateY(0px);
+	    -ms-transform:translateY(0px);
+	        transform:translateY(0px);
+}
+
+#back-to-top:after {
+	content:"\f106";
+	font-family:FontAwesome;
+}
+
+#back-to-top:hover {
+	background-color:#EF233C;
+}
+
 
 @media only screen and (max-width: 767px) {
 	.article.row-article .article-img {
