@@ -411,7 +411,7 @@ ul{
 }
 
 .tab-pane .row {
-	background : #fff;
+	background: linear-gradient(to right,#fbfbf8 0,#ffffff 40%,#fdffdf 100%);
 }
 
 .article .article-title {
