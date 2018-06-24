@@ -271,10 +271,6 @@ ul{
 	display: inline-block;
 	height: 45px;
 	line-height: 43px;
-	border-bottom: 1px solid #DDD;
-	border-top: 1px solid #DDD;
-	border-left: 1px solid #DDD;
-	border-right:none;
 	margin-right:-4px;
 	z-index:2;
 }
@@ -877,11 +873,7 @@ ul{
 	}
 	.tab-nav li {
    	 height: 45px;
-     line-height: 45px;
-     border-bottom: none;
-     border-top: none;
-     border-left:none;
-     border-right: none; 
+     line-height: 45px; 
 	}
 	.tab-nav li a {
 		font-size : 11px;
