@@ -153,6 +153,7 @@ ul{
 #header #center-header {
 	padding-top:15px;
 	padding-bottom:0px;
+	background: #fff;
 }
 
 .header-logo {
@@ -223,6 +224,12 @@ ul{
 	padding-bottom:15px;
 }
 
+.main-section {
+    background: #dddddd;
+    padding-bottom : 40px;
+    padding-top : 20px;
+}
+
 .section-title {
 	position:relative;
 	margin-bottom:20px;
@@ -278,7 +285,6 @@ ul{
 }
 
 .tab-nav li:last-child {
-	border-right: 1px solid #DDD;
 	margin-right:0px;
 }
 
